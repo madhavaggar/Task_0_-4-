@@ -14,3 +14,5 @@ Adds the file to the branch.
 
 $ git commit -m "Message"
 Commits the changes made.
+
+ANSWER: EGG
