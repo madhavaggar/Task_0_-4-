@@ -1,0 +1,23 @@
+Git init- initial a local directory as a git repository
+Git add <filename>-send a fil to the staging area where it is tracked by git
+Git commit-add a record of changes in local repo
+Git branch <branchname>- create a branch
+Git checkout <branch>-move HEAD pointer to a different branch (make it ACTIVE)
+Git merge <branch>-merge two branches
+Touch <filename>-create a file
+Start <filename>-open a file
+Git remote add <alias> <url>-add a reference for remote repo
+Git fetch-make a copy of changes in remote repo
+Git pull-apply the changes from remote repo to local repo
+Git push-send changes from local repo to remote repo  
+Git mv <olderfolder> <newfolder>-change file name
+
+<<<<<<< HEAD
+The egg came first
+The red junglefowl is known to be the progenitor of the chicken. The first chicken was domesticated from them by humans about 8000-10000 years ago. 
+We used chicken on food, agriculture and entertainment. As chickens became increasingly a scope of demand as a delicacy, we indulged them in countless
+cross-breeding and artificial changes to their genes to have them produce more eggs during gestation. Meaning that the chickens from 8000 years ago are
+genetically nowhere close to modern day chickens. The question presumably refers to the origin of modern day chickens, that is, today’s chicken.
+Hence the current chicken is, for now, at the most desirable form. Tomorrow’s chicken might be different, and more ideal than today’s and that chicken’s 
+birth was made possible because of an egg from today’s chicken, and of course human intervention. 
+>>>>>>> B2
