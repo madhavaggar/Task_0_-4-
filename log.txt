@@ -11,3 +11,5 @@ Git fetch-make a copy of changes in remote repo
 Git pull-apply the changes from remote repo to local repo
 Git push-send changes from local repo to remote repo  
 Git mv <olderfolder> <newfolder>-change file name
+
+The egg came first
