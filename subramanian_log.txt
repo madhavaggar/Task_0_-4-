@@ -15,6 +15,9 @@ Adds the file to the branch.
 $ git commit -m "Message"
 Commits the changes made.
 
+$ git merge "branchname"
+Merges the branch with the current branch after resolving conflicts by adding and committing the file.
+
 <<<<<<< HEAD
 ANSWER: EGG
 =======
