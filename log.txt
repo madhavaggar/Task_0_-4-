@@ -1,0 +1,13 @@
+Git init- initial a local directory as a git repository
+Git add <filename>-send a fil to the staging area where it is tracked by git
+Git commit-add a record of changes in local repo
+Git branch <branchname>- create a branch
+Git checkout <branch>-move HEAD pointer to a different branch (make it ACTIVE)
+Git merge <branch>-merge two branches
+Touch <filename>-create a file
+Start <filename>-open a file
+Git remote add <alias> <url>-add a reference for remote repo
+Git fetch-make a copy of changes in remote repo
+Git pull-apply the changes from remote repo to local repo
+Git push-send changes from local repo to remote repo  
+Git mv <olderfolder> <newfolder>-change file name
