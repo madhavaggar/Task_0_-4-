@@ -1,0 +1,12 @@
+Commands:
+
+1.  git clone <repo link>    = clone the repo from github
+2.  Cd Task_0_-4-            = get into the directory of task_0_-4-
+3.  git branch Gokul_P       = create a new branch Gokul_P
+4.  git checkout Gokul_P     = access the branch Gokul_P
+5.  touch log.txt            = create log.txt file 
+6.  git commit               = commit changes to respective branches
+7.  git status  	     = see the status of files in that branch
+8.  git merge                = merge 2 branches
+9.  git pull origin          = fetches and merges data from the remote repo
+10. git push -u origin master= pushes the changes to the remote repository
