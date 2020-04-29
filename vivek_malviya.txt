@@ -1,0 +1,38 @@
+dir
+open directories
+
+cd <any directories>
+open any directories
+
+git clone <url>
+clone url to to system
+
+git branch
+tells branch
+
+git add <file>
+add file to a branch
+
+git checkout -b <new branch>
+open and swicth to new branch
+
+git checkout <branch>
+swicth to a branch
+
+git status 
+get status
+
+git merge 
+merge two branches
+
+git branch -D <branch>
+deletes a branch
+
+git mv <old file name> <new file name>
+rename a file 
+
+git commit -m "messege"
+commit command
+
+git push origin master
+push to our address
