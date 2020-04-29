@@ -1,0 +1,10 @@
+mkdir-to create a new directory
+git clone-to retrieve an entire repository from a hosted location via URL
+git add-to add a file to staging area
+git commit-to commit the staged content
+git branch-to create a new branch and also to list all the branches
+git log-to show all commits
+git status-to check on which branch we are
+git checkout-to switch to another branch
+touch-to create a new file
+start-to open a file
