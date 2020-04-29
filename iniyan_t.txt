@@ -1,0 +1,42 @@
+Commands used for completing this task:
+
+Use fork button for forking
+
+Use 'clone or download' button to copy the link of repo
+
+mkdir <folder name>: used for creating a folder
+
+cd <folder name> : used for changing the current directory
+
+git clone [url]:This command is used to obtain a repository from an existing URL.
+
+git add [file] :This command adds a file to the staging area.
+
+git commit -m “[ Type in the commit message]” :This command records or snapshots the file permanently in the version history.
+
+git status : This command lists all the files that have to be committed.
+
+git branch : This command lists all the local branches in the current repository.
+
+git branch [branch name] : This command creates a new branch.
+
+git checkout [branch name]: This command is used to switch from one branch to another.
+
+git checkout -b [branch name : This command creates a new branch and also switches to it.
+
+git merge [branch name] :This command merges the specified branch’s history into the current branch.
+
+touch <filename> : creates a new file
+
+git pull origin: This command  fetches and merges data from the remote repository
+
+git push -u origin master: This command pushes the changes from local repository to the remote repository
+
+
+
+
+
+
+  
+
+
