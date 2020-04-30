@@ -1,0 +1,28 @@
+git init :
+	Initializes current repo/branch
+git clone <> :
+	Clones an existing repo from GitHub
+touch <filename> :
+	Creates a new file of specified type
+git checkout <branch-name> :
+	Move to the specified branch
+git checkout <commit-hash> :
+	View the repo/branch as it was during the specified commit	
+git rm <file-name> :
+	Delete the specified file (use --cached or -f to keep it in local filesystem/force remove resp.)
+git status :
+	Show the recent changes/additions in the existing branch/repo
+git add. :
+	Add all the modified files to the staging area
+git add <file-name> :
+	Add the specified file to the staging area
+git remote add <key-name> <repo-link> :
+	Associate the local repo with <repo-link> repo on GitHub
+git push -u <key-name> <branch-name> :
+	Push the local repo to GitHub repo
+git commit -m <"commit-message"> :
+	Commit all the files in the staging area to the current branch/repo with the given commit message
+git merge <branch-name> :
+	Merge <branch-name> with current branch
+git mv <old-name> <new-name> :
+	Move file / also used to rename file
