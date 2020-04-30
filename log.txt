@@ -1,0 +1,10 @@
+git fork using fork option in repository
+git clone https://github.com/madhavaggar/Task_0_-4-.git
+create a new branch : git branch <branch_name>
+To add a file : git add <file_name>
+commit the content : git commit  -m "commit string"
+create two other branches from the branch created: git branch <branch_name>
+add file in the two branches and commit it as before
+merge the branches:  git merge <branch_name>
+now push the remote repo: git push origin <branch_name>
+give pull request.
