@@ -1,0 +1,40 @@
+FORKING - using fork button in the repository
+
+CLONE AND DOWNLOAD - copy the URL given under the division
+
+git clone "URL of the forked repository"
+//This clones the given repository to the hard drive//
+
+cd "Filename"
+//Creates the directory//
+
+git branch branchname
+//Creates a new branch//
+
+git checkout -b branchname
+//Creates and moves to the branch//
+
+git add "filename"
+//Add file to the branch
+
+git mv oldname newname
+//Used to rename the file//
+
+git add .
+//Used for staging the files before committing//
+
+git commit -m "Message"
+//Used to commit changes made//
+
+git checkout branchname
+//Moves to the specific branch//
+
+git merge branch
+//Merges the specified branch with the already present one//
+
+git push origin branchname
+//Pushes the branch//
+
+
+
+
