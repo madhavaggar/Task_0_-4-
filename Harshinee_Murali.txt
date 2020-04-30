@@ -14,6 +14,12 @@ git branch branchname
 git checkout -b branchname
 //Creates and moves to the branch//
 
+git add "filename"
+//Add file to the branch
+
+git mv oldname newname
+//Used to rename the file//
+
 git add .
 //Used for staging the files before committing//
 
@@ -25,4 +31,10 @@ git checkout branchname
 
 git merge branch
 //Merges the specified branch with the already present one//
+
+git push origin branchname
+//Pushes the branch//
+
+
+
 
