@@ -1,0 +1,9 @@
+git clone - Clone repo located at <repo> onto local machine.
+git status - List which files are staged, unstaged, and untracked.
+git checkout -b - Create and check out a new branch. 
+git merge - Merge two branches you were working on.
+git push/git pull - Push or Pull your changes to remote. 
+touch - Creates a file.
+git commit - Commits the changes and sets it to new commit object for your remote.
+git add - Adds changes to stage/index in your working directory.
+
