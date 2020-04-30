@@ -1,0 +1,10 @@
+$ git clone [URL]- clones the remote repo from github ansd creates a local repo in Desktop
+$ git branch [BranchName]- Creates a branch BranchName
+$ git checkout [BranchName]- moves into the new branch BranchName
+$ nano log.txt-  creates a nano text editor with name log
+$ git add log.txt- adds the text file to local repo
+$ git commit -m "ChangesMade"- Gives info about the changes made and commits change to local repo
+$ git merge Branchname- merges the current branch with the branch BranchName
+$ git push origin [BranchName]- pushes the local repo to remote repo
+$ git mv [Name1] [Name2]- Changes Name of the file from Name1 to Name2
+
