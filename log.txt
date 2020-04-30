@@ -1,1 +1,10 @@
 commands used
+1)git clone-to clone a remote repository on local
+2)$ cd-to set our current directory
+3)git branch <name>-to create a new branch
+4)git branch-to check current branch we are at
+5)git checkout-to switch from current branch to another branch
+6)git add-stage the changes and additions done on the working directory
+7)git commit -m -to move the changes that were staged,to local repo
+8)git status-displays status of working directory, whether the changes are staged or not,files that are not tracked by Git
+9)git merge - to merge one branch with current branch 
