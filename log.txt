@@ -1,0 +1,10 @@
+The commands used are:
+cd- to change the directory to a folder created in the desktop
+git clone- to clone the repo
+git branch (file name) -to create a new branch with the given name
+git branch - to check the branches
+git checkout (branch name)- to move to that specific branch 
+touch (file name )- to create the new file
+git add (file name ), git commit -m "(message)"- to save the changes made in the document
+git merge (file name )- to merge the current branch and branch specified
+git push origin <branch>- to push the repo
