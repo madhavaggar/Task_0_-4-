@@ -1,0 +1,18 @@
+Forking done using Fork Button
+
+git clone "URL"
+clones given repo
+
+git checkout -b "branch_name"
+creates a new branch and moves
+
+vim log.txt
+creates a text file and opens text editor
+
+git add "log.txt"
+add to branch
+
+git commit -m "msg"
+make an commit
+
+
