@@ -8,3 +8,4 @@ touch (file name )- to create the new file
 git add (file name ), git commit -m "(message)"- to save the changes made in the document
 git merge (file name )- to merge the current branch and branch specified
 git push origin <branch>- to push the repo
+git mv (old file name) (new file name) - to rename the files
