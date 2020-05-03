@@ -1,0 +1,3 @@
+git clone (repo link)#clone the repository
+git branch shubh_sharma #create new branch
+git checkout shubh_sharma# switch to the branch
