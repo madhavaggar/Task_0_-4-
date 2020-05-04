@@ -1,0 +1,20 @@
+1) Fork the given common repo on https://github.com/madhavaggar/Task_0_-4- using the UI button on the site
+2) Clone the repo on my account using 
+	git clone <url>
+3) Create branches using
+	git branch <branch_name>
+4) Created text file using windows explorer and notepad to edit
+5) Navigated to branches using
+	git checkout <branch_name>
+6) Rename file using
+	git mv <old_name> <new_name>
+7) Add files using
+	git add <file_name>
+	git add .	[adds all files]
+8) Commited using
+	git commit -m "Commit message here"
+9) Pushed changes using
+	git push <remote> <branch_name>
+	Eg: git push origin master
+10) Pull request using
+	git pull <remote> <branch_name>
